@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Yasir Marwat**, a full-stack developer focused on building modern SaaS products, backend systems, APIs, authentication flows, dashboards, and production-ready web applications.
 
@@ -82,7 +82,7 @@ const yasir = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Authentication
+### Authentication
 - JWT authentication
 - OAuth / Google login
 - User roles & permissions
@@ -92,7 +92,7 @@ const yasir = {
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Deployment & Debugging
+### Deployment & Debugging
 - Vercel / Netlify
 - Docker
 - CI/CD workflows
